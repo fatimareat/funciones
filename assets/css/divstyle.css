@@ -1,0 +1,43 @@
+
+/*
+Divs de colores
+*/
+
+#divAzul {
+    background-color: blue;
+}
+
+#divRojo {
+    background-color: red;
+}
+
+#divVerde {
+    background-color: green;
+}
+
+#divAmarillo {
+    background-color: yellow;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+
+/*
+Ejercicio de agregar divs
+*/
+
+#key {
+    width: 200px;
+    height: 200px;
+    background-color: white; 
+    border: 2px solid black;
+}
+
+.nuevoDiv {
+    margin: 0;
+    margin-bottom: 10px;
+    border: 2px solid black;
+}
